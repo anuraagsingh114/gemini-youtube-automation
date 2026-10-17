@@ -12,7 +12,7 @@ moviepy==1.0.3
 requests
 
 # For image processing (e.g., slides, thumbnails)
-Pillow==9.5.0
+Pillow==13.0.0
 
 # ✅ For MP3 to WAV conversion
 pydub
